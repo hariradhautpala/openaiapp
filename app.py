@@ -1,4 +1,4 @@
-import streamlit as stst.image("https://v0-horoscope-isxbvbudo-hari-radha-utpala-doradlas-projects.vercel.app", caption="AI-Powered Streamlit App") 
+import streamlit as st st.image("https://v0-horoscope-isxbvbudo-hari-radha-utpala-doradlas-projects.vercel.app", caption="AI-Powered Streamlit App") 
 import requests
 import json
 import base64
